@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @victor-yakson
 - 👀 I’m interested in ethical hacking
+- Web developer , Blockchain 
 - 🌱 I’m currently learning kali linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
